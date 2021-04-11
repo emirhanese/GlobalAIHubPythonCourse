@@ -2,6 +2,7 @@ import time
 import random
 
 """
+This program is written on VSC IDE.
 Bu programda 'Kim Milyoner Olmak İster' adlı programdan almış olduğum 10 adet soru bulunmaktadır. Oyunun işleyişi şu şekildedir:
 
 Her soru başında kullanıcıya sahip olduğu joker haklarının bilgisi verilir.
