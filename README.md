@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 05.04.2021  
+**Course Date:** 05 - 09 Nisan 2021  
 **Name:** Emirhan  
 **Surname:** Ese  
 **Email:** emirhan_ese@windowslive.com  
